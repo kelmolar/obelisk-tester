@@ -1,0 +1,9 @@
+{
+    "name": "joe-php-fb/joe-php-fb",
+    "version": "0.0.1",
+    "require": {
+        "facebook/graph-sdk": "^5.5",
+        "league/oauth2-instagram": "^2.0",
+        "abraham/twitteroauth": "^0.7.3"
+    }
+}
