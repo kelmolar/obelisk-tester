@@ -1,7 +1,0 @@
-
-#GZIP stuff
-<IfModule mod_mime.c>
-
-  AddEncoding gzip .unityweb
-
-</IfModule>
